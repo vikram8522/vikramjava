@@ -11,6 +11,7 @@ public class PracticeArrayList {
 		number.add(30);
 		System.out.println(number.size());
 //4
+//3
 		for(Integer num:number){
 			System.out.println(num);
 
