@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 //Default size of arraylist is 10 and increase by with capacity 50% or old size*1.5
 public class PracticeArrayList {
-	//here also some issue
+	
 	public static void main(String[] args) {
 		List<Integer> number = new ArrayList<>();
 		number.add(10);
@@ -14,15 +14,13 @@ public class PracticeArrayList {
 		
 		for(Integer num:number){
 			System.out.println(num);
-<<<<<<< Upstream, based on branch 'master' of https://github.com/vikram8522/vikramjava.git
+//44
 			//23
 			//22
 //55
 			//231
 			//66
 			//..
-=======
->>>>>>> 1c14b30 www
 
 		}
 		
