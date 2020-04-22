@@ -10,8 +10,10 @@ public class PracticeArrayList {
 		number.add(20);
 		number.add(30);
 		System.out.println(number.size());
-
+<<<<<<< HEAD
 //4
+=======
+>>>>>>> refs/remotes/origin/master
 //3
 		for(Integer num:number){
 			System.out.println(num);
