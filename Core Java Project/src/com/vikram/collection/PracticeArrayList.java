@@ -14,12 +14,15 @@ public class PracticeArrayList {
 		
 		for(Integer num:number){
 			System.out.println(num);
+<<<<<<< Upstream, based on branch 'master' of https://github.com/vikram8522/vikramjava.git
 			//23
 			//22
 //55
 			//231
 			//66
 			//..
+=======
+>>>>>>> 1c14b30 www
 
 		}
 		
