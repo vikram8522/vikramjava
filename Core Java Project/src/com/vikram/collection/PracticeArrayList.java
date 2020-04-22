@@ -11,7 +11,7 @@ public class PracticeArrayList {
 		number.add(20);
 		number.add(30);
 		System.out.println(number.size());
-		
+		//This is for loop
 		for(Integer num:number){
 			System.out.println(num);
 //44
