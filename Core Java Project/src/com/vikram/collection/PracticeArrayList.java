@@ -21,7 +21,7 @@ public class PracticeArrayList {
 			//231
 			//66
 			//..
-
+//77
 		}
 		
 	}
