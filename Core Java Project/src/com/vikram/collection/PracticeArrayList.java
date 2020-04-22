@@ -11,6 +11,7 @@ public class PracticeArrayList {
 		number.add(30);
 		System.out.println(number.size());
 		//This is for loop1
+		//1 This is from github
 		for(Integer num:number){
 			System.out.println(num);
 
