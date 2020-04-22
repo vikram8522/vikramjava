@@ -16,12 +16,11 @@ public class PracticeArrayList {
 			System.out.println(num);
 			//23
 			//22
-<<<<<<< Upstream, based on branch 'master' of https://github.com/vikram8522/vikramjava.git
+
 			//231
 			
 			//..
-=======
->>>>>>> e4ea7d5 Merge remote-tracking branch 'origin/master'
+
 		}
 		
 	}
