@@ -17,6 +17,8 @@ public class PracticeArrayList {
 			//23
 			//22
 			//231
+			
+			//..
 		}
 		
 	}
