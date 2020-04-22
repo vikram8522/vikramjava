@@ -16,6 +16,7 @@ public class PracticeArrayList {
 			System.out.println(num);
 			//23
 			//22
+			//231
 		}
 		
 	}
