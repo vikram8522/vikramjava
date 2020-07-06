@@ -13,6 +13,7 @@ public class PracticeArrayList {
 		
 		for(Integer num:number){
 			System.out.println(num);
+			//adding comment 
 
 		}
 		
