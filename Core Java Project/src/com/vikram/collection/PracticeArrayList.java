@@ -5,7 +5,7 @@ import java.util.List;
 public class PracticeArrayList {
 	
 	public static void main(String[] args) {
-		//added comment from git hub
+		//added comment from git hub1
 		List<Integer> number = new ArrayList<>();
 		number.add(10);
 		number.add(20);
