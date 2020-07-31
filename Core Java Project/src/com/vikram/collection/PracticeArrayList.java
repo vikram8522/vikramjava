@@ -10,7 +10,10 @@ public class PracticeArrayList {
 		number.add(10);
 		number.add(20);
 		number.add(30);
+<<<<<<< HEAD
 		number.add(50);
+=======
+>>>>>>> branch 'master' of https://github.com/vikram8522/vikramjava
 		number.add(40);
 		System.out.println(number.size());
 		
