@@ -10,6 +10,8 @@ public class PracticeArrayList {
 		number.add(10);
 		number.add(20);
 		number.add(30);
+		number.add(50);
+		number.add(40);
 		System.out.println(number.size());
 		
 		for(Integer num:number){
