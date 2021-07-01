@@ -6,9 +6,6 @@ public class A {
 
 		System.out.print("Master");
 
-		System.out.print("Merge Develop to Master");
-
-
 	}
 
 }
